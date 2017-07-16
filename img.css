@@ -1,4 +1,6 @@
-img {
+.stego1
+{
+    background:URL('stegouplink.jpg');
     display: block;
     margin: auto;
     width: 100%;
