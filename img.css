@@ -1,7 +1,6 @@
 .stego1
 {
-    background:URL('stegouplink.jpg');
-    display: block;
-    margin: auto;
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
 }
